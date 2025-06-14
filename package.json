@@ -1,0 +1,12 @@
+{
+  "name": "newtest-blog-r68ih0",
+  "version": "1.0.0",
+  "description": "Generated project for newtest-blog-r68ih0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}

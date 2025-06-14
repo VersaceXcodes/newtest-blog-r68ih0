@@ -1,2 +1,3 @@
-# newtest-blog-r68ih0
-Generated project for newtest-blog
+# newtest-blog
+
+This is the README for newtest-blog.
